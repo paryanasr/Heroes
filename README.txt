@@ -1,4 +1,4 @@
-how to setup and run your app:
+how to setup and run the app:
 
 unzip the folder and make sure files are in the same folder. Make sure mime-types module is installed. Run node server.js on PoweShell or Command Prompt and make sure you recieve the message “server is listening to port 2406”. In a webpage URL type “localhost:2406” and press enter. 
 
